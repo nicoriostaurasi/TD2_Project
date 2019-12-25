@@ -1,4 +1,4 @@
-# TD2_Project
+# Ecualizador Digital de Audio
 -Proyecto realizado en la UTN FRBA durante el año 2019 para la materia de 4to año Técnicas Digitales 2
 
 -Cuenta con una entrada y salida de Jack de audio 3.5 mm, la cual realiza una ecualización de 3 bandas y entrega a la salida la suma de ambas 3 señales
