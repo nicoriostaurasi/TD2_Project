@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DGND Pin=U1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-28
+Removed Pin From Net: NetName=DGND Pin=U7-GND
+Added Component: Designator=P9(MICRO_USB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=R_AUDIO_IN Pin=CN1-1
+Added Pin To Net: NetName=R_AUDIO_OUT Pin=CN2-1
+Added Pin To Net: NetName=NetC26_1 Pin=P9-1
+Added Pin To Net: NetName=DGND Pin=P9-5
+Added Pin To Net: NetName=VDD Pin=U1-28
+Added Net: Name=VDD
+Added Member To Class: ClassName=U_Battery Member=Component P9 MicroUSB_TypeB
+Added Room: Name=U_ADC_PCM1802
+Added Room: Name=U_Battery
+Added Room: Name=U_DAC_PCM1781
+Added Room: Name=U_Input_Conditioning
+Added Room: Name=U_Micro_M3
+Added Room: Name=U_SALIDA_DAC
+Added Room: Name=U_TFT

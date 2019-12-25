@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=R_AUDIO_ADC Pin=R17-1
+Removed Pin From Net: NetName=NetC6_2 Pin=R17-2
+Removed Pin From Net: NetName=AGND Pin=R17-3
+Added Component: Designator=P9(*TE_2013499-1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC26_1 Pin=P9-1
+Added Pin To Net: NetName=DGND Pin=P9-5
+Added Pin To Net: NetName=AGND Pin=R17-1
+Added Pin To Net: NetName=R_AUDIO_ADC Pin=R17-2
+Added Pin To Net: NetName=NetC6_2 Pin=R17-3
+Added Member To Class: ClassName=U_Battery Member=Component P9 MicroUSB_TypeB

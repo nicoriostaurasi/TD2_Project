@@ -1,0 +1,3 @@
+Added Component: Designator=R24(R_0805)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=U_DAC_PCM1781 Member=Component R24 1 5%

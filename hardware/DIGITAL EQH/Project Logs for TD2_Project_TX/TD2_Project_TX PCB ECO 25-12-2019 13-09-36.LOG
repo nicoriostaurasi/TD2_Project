@@ -1,0 +1,6 @@
+Added Component: Designator=P9(*TE_2013499-1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=J1-12
+Added Pin To Net: NetName=NetC26_1 Pin=P9-1
+Added Pin To Net: NetName=DGND Pin=P9-5
+Added Pin To Net: NetName=3V3 Pin=U1-28

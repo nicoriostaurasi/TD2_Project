@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=DGND Pin=Q1-2
+Removed Pin From Net: NetName=BL Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=U1-28
+Removed Pin From Net: NetName=DB14 Pin=U1-30
+Removed Pin From Net: NetName=DB12 Pin=U1-31
+Removed Pin From Net: NetName=DB10 Pin=U1-32
+Removed Pin From Net: NetName=DB8 Pin=U1-33
+Removed Pin From Net: NetName=DB6 Pin=U1-34
+Removed Pin From Net: NetName=DB4 Pin=U1-35
+Removed Pin From Net: NetName=DB2 Pin=U1-36
+Removed Pin From Net: NetName=DB0 Pin=U1-37
+Removed Pin From Net: NetName=DB9 Pin=U1-47
+Removed Pin From Net: NetName=DGND Pin=U7-GND
+Removed Member From Class: ClassName=U_Micro_M3 Member=Q1
+Removed Member From Class: ClassName=U_Micro_M3 Member=R1
+Removed Member From Class: ClassName=U_Micro_M3 Member=R2
+Removed Member From Class: ClassName=U_SALIDA_DAC Member=U2
+Added Component: Designator=P9(*TE_2013499-1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC26_1 Pin=P9-1
+Added Pin To Net: NetName=DGND Pin=P9-5
+Added Pin To Net: NetName=DB14 Pin=U1-5
+Added Pin To Net: NetName=DB12 Pin=U1-6
+Added Pin To Net: NetName=DB4 Pin=U1-7
+Added Pin To Net: NetName=DB6 Pin=U1-8
+Added Pin To Net: NetName=DB9 Pin=U1-9
+Added Pin To Net: NetName=DB10 Pin=U1-10
+Added Pin To Net: NetName=DB2 Pin=U1-11
+Added Pin To Net: NetName=DB0 Pin=U1-12
+Added Pin To Net: NetName=BL Pin=U1-28
+Added Pin To Net: NetName=DB8 Pin=U1-47
+Added Member To Class: ClassName=U_Battery Member=Component P9 MicroUSB_TypeB
+Added Member To Class: ClassName=U_ADC_PCM1802 Member=Component U4 ADC_PCM1802
+Added Member To Class: ClassName=U_SALIDA_DAC Member=Component U8 OPA2337

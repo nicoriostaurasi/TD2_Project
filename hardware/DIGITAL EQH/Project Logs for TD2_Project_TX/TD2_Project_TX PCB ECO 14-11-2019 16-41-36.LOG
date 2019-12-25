@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=C11 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Footprint: Designator=C13 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Footprint: Designator=C26 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Footprint: Designator=C27 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Footprint: Designator=C28 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Footprint: Designator=C29 Old Footprint=C_0805_POL New Footprint=RAD-0.1
+Change Component Description : Designator=U4 Old Description=The PCM1802 is a high-performance, low-cost,
+single-chip stereo analog-to-digital converter with
+single-ended analog voltage input. The PCM1802
+uses a delta-sigma modulator with 64-times or
+128-times oversampling, and includes a digital
+decimation filter and high-pass filter (HPF), which
+removes the DC component of the input signal. For
+various applications, the PCM1802 supports master
+and slave modes and four data formats in serial
+interface. The PCM1802 is suitable for a wide variety
+of cost-sensitive consumer applications where good
+performance, 5-V analog supply, and 3.3-V digital
+supply operation is required. The PCM1802 is
+fabricated using a highly advanced CMOS process
+and is available in the DB 20-pin SSOP package. New Description=The PCM1802 is a high-performance, low-cost,
+single-chip stereo analog-to-digital converter with
+single-ended analog voltage input. The PCM1802
+uses a delta-sigma modulator with 64-times or
+128-times oversampling, and includes a digital
+decimation filter and high-pass filter (HPF), which
+removes the DC component of the input signal. For
+various applications, the PCM1802 supports master
+and slave modes and four data formats in serial
+interface. The PCM1802 is suitable for a wide variety
+of cost-sensitive consumer applications where good
+performance, 5-V analog supply, and 3.3-V digital
+supply operation is required. The PCM1802 is
+fabricated using a highly advanced CMOS process
+and is available in the DB 20-pin SSOP package.
+Added Component: Designator=P9(MICRO_USB)
+Add component. Clean all parameters for all variants

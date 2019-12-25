@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=3V3 Pin=SW1-2
+Removed Pin From Net: NetName=3V3 Pin=SW2-2
+Removed Pin From Net: NetName=3V3 Pin=SW3-2
+Removed Pin From Net: NetName=3V3 Pin=SW4-2
+Removed Pin From Net: NetName=3V3 Pin=SW5-2
+Removed Pin From Net: NetName=3V3 Pin=U1-60
+Removed Pin From Net: NetName=3V3 Pin=U1-61
+Removed Pin From Net: NetName=3V3 Pin=U1-67
+Removed Pin From Net: NetName=3V3 Pin=U1-72
+Removed Pin From Net: NetName=3V3 Pin=U1-73
+Added Pin To Net: NetName=SW1 Pin=SW1-2
+Added Pin To Net: NetName=SW1 Pin=U1-61
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=SW2-2
+Added Pin To Net: NetName=SW2 Pin=U1-60
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=SW3-2
+Added Pin To Net: NetName=SW3 Pin=U1-67
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=SW4-2
+Added Pin To Net: NetName=SW4 Pin=U1-73
+Added Net: Name=SW4
+Added Pin To Net: NetName=SW5 Pin=SW5-2
+Added Pin To Net: NetName=SW5 Pin=U1-72
+Added Net: Name=SW5

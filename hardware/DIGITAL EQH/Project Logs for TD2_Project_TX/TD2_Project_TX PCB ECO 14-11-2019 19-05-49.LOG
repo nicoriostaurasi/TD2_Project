@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=3V3 Pin=SW1-2
+Removed Pin From Net: NetName=3V3 Pin=SW2-2
+Removed Pin From Net: NetName=3V3 Pin=SW3-2
+Removed Pin From Net: NetName=3V3 Pin=SW4-2
+Removed Pin From Net: NetName=3V3 Pin=SW5-2
+Removed Pin From Net: NetName=3V3 Pin=U1-60
+Removed Pin From Net: NetName=3V3 Pin=U1-61
+Removed Pin From Net: NetName=3V3 Pin=U1-67
+Removed Pin From Net: NetName=3V3 Pin=U1-72
+Removed Pin From Net: NetName=3V3 Pin=U1-73
+Change Component Description : Designator=U4 Old Description=The PCM1802 is a high-performance, low-cost,
+single-chip stereo analog-to-digital converter with
+single-ended analog voltage input. The PCM1802
+uses a delta-sigma modulator with 64-times or
+128-times oversampling, and includes a digital
+decimation filter and high-pass filter (HPF), which
+removes the DC component of the input signal. For
+various applications, the PCM1802 supports master
+and slave modes and four data formats in serial
+interface. The PCM1802 is suitable for a wide variety
+of cost-sensitive consumer applications where good
+performance, 5-V analog supply, and 3.3-V digital
+supply operation is required. The PCM1802 is
+fabricated using a highly advanced CMOS process
+and is available in the DB 20-pin SSOP package. New Description=The PCM1802 is a high-performance, low-cost,
+single-chip stereo analog-to-digital converter with
+single-ended analog voltage input. The PCM1802
+uses a delta-sigma modulator with 64-times or
+128-times oversampling, and includes a digital
+decimation filter and high-pass filter (HPF), which
+removes the DC component of the input signal. For
+various applications, the PCM1802 supports master
+and slave modes and four data formats in serial
+interface. The PCM1802 is suitable for a wide variety
+of cost-sensitive consumer applications where good
+performance, 5-V analog supply, and 3.3-V digital
+supply operation is required. The PCM1802 is
+fabricated using a highly advanced CMOS process
+and is available in the DB 20-pin SSOP package.
+Added Pin To Net: NetName=SW1 Pin=SW1-2
+Added Pin To Net: NetName=SW1 Pin=U1-61
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=SW2-2
+Added Pin To Net: NetName=SW2 Pin=U1-60
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=SW3-2
+Added Pin To Net: NetName=SW3 Pin=U1-67
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=SW4-2
+Added Pin To Net: NetName=SW4 Pin=U1-73
+Added Net: Name=SW4
+Added Pin To Net: NetName=SW5 Pin=SW5-2
+Added Pin To Net: NetName=SW5 Pin=U1-72
+Added Net: Name=SW5

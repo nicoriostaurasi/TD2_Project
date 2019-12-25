@@ -1,0 +1,7 @@
+20:12:17 **** Clean-only build of configuration Debug for project ej12_i2s_mixto ****
+make -r -j4 clean 
+rm -rf  ./src/tasks/WATCHDOG/task-watchdog_lpc1769.o  ./src/tasks/HEARTBEAT/task-heartbeat_lpc1769.o  ./src/tasks/GPIOS/GpiosTask_lpc1769.o  ./src/tasks/DSP/filtrado.o  ./src/tasks/DISPLAY/DisplayTASK.o ./src/tasks/DISPLAY/display_func.o ./src/tasks/DISPLAY/display_globales.o ./src/tasks/DISPLAY/display_int.o ./src/tasks/DISPLAY/fonts.o  ./src/tasks/CONTROL/ControlTask.o  ./src/tasks/ADC_DAC/AdcTask_lpc1769.o ./src/tasks/ADC_DAC/i2s_hw_init.o  ./src/main/cr_startup_lpc175x_6x.o ./src/main/main.o  ./src/c-tds/monittor_lpc1769.o ./src/c-tds/scheduler_lpc1769.o ./src/c-tds/system_lpc1769.o  ./src/crp.o ./src/sysinit.o  ./src/tasks/WATCHDOG/task-watchdog_lpc1769.d  ./src/tasks/HEARTBEAT/task-heartbeat_lpc1769.d  ./src/tasks/GPIOS/GpiosTask_lpc1769.d  ./src/tasks/DSP/filtrado.d  ./src/tasks/DISPLAY/DisplayTASK.d ./src/tasks/DISPLAY/display_func.d ./src/tasks/DISPLAY/display_globales.d ./src/tasks/DISPLAY/display_int.d ./src/tasks/DISPLAY/fonts.d  ./src/tasks/CONTROL/ControlTask.d  ./src/tasks/ADC_DAC/AdcTask_lpc1769.d ./src/tasks/ADC_DAC/i2s_hw_init.d  ./src/main/cr_startup_lpc175x_6x.d ./src/main/main.d  ./src/c-tds/monittor_lpc1769.d ./src/c-tds/scheduler_lpc1769.d ./src/c-tds/system_lpc1769.d  ./src/crp.d ./src/sysinit.d  ej12_i2s_mixto.axf
+ 
+
+20:12:18 Build Finished (took 641ms)
+

@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C4 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C9 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C7 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.1
+Change Component Comment: Designator=R24 Old Comment=0 New Comment=1 5%
+Add Pin To Net: Pin=U1-1 Old Net=NetU1_1 New Net=DGND
+Add Pin To Net: Pin=U1-28 Old Net=NetU1_28 New Net=VDD
+Change Pin Designator/Name:  Old Designator=CN1-2 Old Name= New Designator = New Name=3
+Change Pin Designator/Name:  Old Designator=CN1-3 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=CN2-2 Old Name= New Designator = New Name=3
+Change Pin Designator/Name:  Old Designator=CN2-3 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=U1-1 Old Name=GNDX New Designator =GNDX New Name=54
+Change Pin Designator/Name:  Old Designator=U1-54 Old Name=GNDX New Designator =P1[19] New Name=67
+Change Pin Designator/Name:  Old Designator=U6-1 Old Name=OUT New Designator =IN New Name=3
+Change Pin Designator/Name:  Old Designator=U6-3 Old Name=IN New Designator =OUT New Name=1
+Change Pin Designator/Name:  Old Designator=U7-1 Old Name=OUT New Designator =IN New Name=3
+Change Pin Designator/Name:  Old Designator=U7-3 Old Name=IN New Designator =OUT New Name=1

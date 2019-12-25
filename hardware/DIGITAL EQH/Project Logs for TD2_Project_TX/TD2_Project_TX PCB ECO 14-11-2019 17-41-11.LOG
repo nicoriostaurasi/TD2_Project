@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AGND Pin=R17-1
+Removed Pin From Net: NetName=R_AUDIO_ADC Pin=R17-3
+Added Pin To Net: NetName=R_AUDIO_ADC Pin=R17-1
+Added Pin To Net: NetName=AGND Pin=R17-3

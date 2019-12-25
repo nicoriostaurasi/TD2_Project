@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=AGND Pin=R24-1
+Added Pin To Net: NetName=DGND Pin=R24-2
+Added Pin To Net: NetName=DGND Pin=U1-54
+Added Member To Class: ClassName=U_DAC_PCM1781 Member=Component R24 1 5%

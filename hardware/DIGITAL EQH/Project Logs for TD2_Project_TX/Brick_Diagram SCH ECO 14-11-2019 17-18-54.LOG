@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C4 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C9 Old Footprint=C_0805 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C7 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.1
+Add Pin To Net: Pin=U1-28 Old Net=VDD New Net=VDD
+Change Pin Designator/Name:  Old Designator=CN1-2 Old Name= New Designator = New Name=3
+Change Pin Designator/Name:  Old Designator=CN1-3 Old Name= New Designator = New Name=2
