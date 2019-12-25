@@ -3,6 +3,6 @@
 
 -Cuenta con una entrada y salida de Jack de audio 3.5 mm, la cual realiza una ecualización de 3 bandas y entrega a la salida la suma de ambas 3 señales
 
--Para el proyecto se utilizo un LPC1969 de NXP, y la libreria de DSP de CMSIS
+-Para el proyecto se utilizo un LPC1769 de NXP, y la libreria de DSP de CMSIS
 
 -Para la entrada de audio se utilizo un PCM1802, PCM1781, y varios OPA2337 todos de Texas Instruments
