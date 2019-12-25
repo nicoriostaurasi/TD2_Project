@@ -6,3 +6,8 @@
 -Para el proyecto se utilizo un LPC1769 de NXP, y la libreria de DSP de CMSIS
 
 -Para la entrada de audio se utilizo un PCM1802, PCM1781, y varios OPA2337 todos de Texas Instruments
+
+-Para la interfaz con el usuario se utilizo una TFT con controlador ILI9341
+
+-El software esta corriendo en un sistema operativo de modo (TDS), podría escalarse a FREE-RTOS
+
