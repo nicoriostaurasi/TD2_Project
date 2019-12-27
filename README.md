@@ -1,5 +1,5 @@
 # Ecualizador Digital de Audio
--Proyecto realizado en la UTN FRBA durante el año 2019 para la materia de 4to año Técnicas Digitales 2
+-Proyecto realizado en la UTN FRBA durante el Ciclo Lectivo 2019 para la materia Técnicas Digitales II, correspondiente al IV año del Plan de Estudios de la carrera de Ingeniería en Electrónica
 
 -Cuenta con una entrada y salida de Jack de audio 3.5 mm, la cual realiza una ecualización de 3 bandas y entrega a la salida la suma de ambas 3 señales
 
